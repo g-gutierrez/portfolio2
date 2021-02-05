@@ -5,7 +5,7 @@ body {
 height: 100%;
 margin: auto;
 padding: 50px;
-max-width: 800px;
+max-width: 880px;
 align-items: center;
 position: relative;
 }
@@ -36,7 +36,7 @@ z-index: 0;
 position: relative;
 width: 880px;
 padding: 10px;
-top: -77.450em;
+top: -75.60em;
 }
 .under-portfolio {
   display: grid;
@@ -57,7 +57,6 @@ padding: 10px;
   border: .2em solid rgb(0,230,255);
 }
 .item {
-  display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
